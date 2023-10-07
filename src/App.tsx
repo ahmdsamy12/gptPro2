@@ -1,24 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { useTranslation } from "react-i18next";
+import NavbarApp from "./components/NavbarApp/NavbarApp";
+import Landing from "./components/landing/Landing";
+import Gpt3 from "./components/gpt3/Gpt3";
+import Services from "./components/services/Services";
+import Apps from "./components/apps/Apps";
+import Blog from "./components/blog/Blog";
+import FooterApp from "./components/footer/FooterApp";
 
 function App() {
+  const { t } = useTranslation();
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavbarApp />
+      <Landing />
+      <Gpt3 />
+      <Services />
+      <Apps />
+      <Blog />
+      <FooterApp />
     </div>
   );
 }
