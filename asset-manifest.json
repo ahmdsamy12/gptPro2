@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gptPro2/static/css/main.1835e7cb.css",
+    "main.js": "/gptPro2/static/js/main.55ac4313.js",
+    "static/media/Header Illustration (1).png": "/gptPro2/static/media/Header Illustration (1).1069cf08ac10e7eb51a6.png",
+    "static/media/Feature Image.png": "/gptPro2/static/media/Feature Image.1502d596d0a45cf91652.png",
+    "static/media/Rectangle 22.png": "/gptPro2/static/media/Rectangle 22.b8c594107c0678715afa.png",
+    "static/media/Rectangle 22 (3).png": "/gptPro2/static/media/Rectangle 22 (3).6c4c03beb10707bc4726.png",
+    "static/media/Rectangle 22 (2).png": "/gptPro2/static/media/Rectangle 22 (2).beb41199f58f7cf27240.png",
+    "static/media/Rectangle 22 (4).png": "/gptPro2/static/media/Rectangle 22 (4).a3a9b572dc5b0aa6446d.png",
+    "static/media/Rectangle 22 (1).png": "/gptPro2/static/media/Rectangle 22 (1).4575fb47b66fd76940b0.png",
+    "static/media/Group 81.png": "/gptPro2/static/media/Group 81.2cfdf724680e3ce7e868.png",
+    "static/media/Comapnies Logo.png": "/gptPro2/static/media/Comapnies Logo.b5bb0d39755aac30f3f6.png",
+    "index.html": "/gptPro2/index.html",
+    "static/media/getFetch.cjs": "/gptPro2/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.1835e7cb.css.map": "/gptPro2/static/css/main.1835e7cb.css.map",
+    "main.55ac4313.js.map": "/gptPro2/static/js/main.55ac4313.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1835e7cb.css",
+    "static/js/main.55ac4313.js"
+  ]
+}
